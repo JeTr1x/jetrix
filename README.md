@@ -23,20 +23,20 @@ https://prater.beaconcha.in/validator/8d010a4a352565bc812246fd813ff6b933cf1dccfe
 Our valiadtor is now exited, due to approaching end of goerli testnet
 
 Also participtaing in many others, where I cannot provide any links, like:
--Kroma
--Quai node + miner
--Avail full and light node
--Namada participated in all testnets
--Penumbra participated in all testnets
+- Kroma
+- Quai node + miner
+- Avail full and light node
+- Namada participated in all testnets
+- Penumbra participated in all testnets
 and many others
 
 And participated in projects which are in mainnet now, but for some reasons I am not validating or running nodes/miners on them:
--IronFish
--Stride
--Haqq
--Nois
--Massa
--StaFi
--Nolus
+- IronFish
+- Stride
+- Haqq
+- Nois
+- Massa
+- StaFi
+- Nolus
 and many others, just cant remember all;)
 All projects I am part of, I always take seriously and try to get best servers, and best service, upgrading nodes as fast as possible, reacting for some issues fast ( I have grafana with all my servers for monitoring and my own tg bot for notification).
