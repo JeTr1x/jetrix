@@ -13,11 +13,11 @@ https://froopyland.explorers.guru/validator/dymvaloper1jpk0zmej7yhf74f4tgfmkhweu
 https://devnet.dymension.xyz/rollapp/jetrix_1481610-1 - rollapp
 Also was chosen as rollapp fam, which given me abuilty to run rollapp and list on portal.
 
--Side
+- Side
 https://explorer.side.exchange/testnet/staking/sidevaloper16wnzklkf43pzctkkh06pr2p4lgpgceetrxrn9s
 Running active validator in actual testnet
 
--Obol
+- Obol
 I was leader of DV cluster runnung validator on Goerli
 https://prater.beaconcha.in/validator/8d010a4a352565bc812246fd813ff6b933cf1dccfe001996363298882ca5a0b6035d3f50a7c84a6f5334f014e9b9cacb#deposits
 Our valiadtor is now exited, due to approaching end of goerli testnet
